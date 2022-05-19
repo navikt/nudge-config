@@ -5,7 +5,7 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://support.apple.com/no-no/HT201222",
-      "requiredInstallationDate": "2022-05-25T00:00:00Z",
+      "requiredInstallationDate": "2022-05-30T00:00:00Z",
       "requiredMinimumOSVersion": "12.4",
       "targetedOSVersionsRule": "12"
     }
