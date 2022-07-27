@@ -47,7 +47,7 @@
         "mainContentHeader": "Your device will restart during this update",
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30 to 60 minutes to complete",
-        "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nYou can defer this update until the the 30th of May but beyond that the update will be installed.",
+        "mainContentText": "A fully up-to-date device is required to ensure that IT can accurately protect your device.\n\nIf you do not update your device, you may lose access to some items necessary for your day-to-day tasks.\n\nTo begin the update, simply click on the Update Device button and follow the provided steps.\n\nYou can defer this update until the the 4th of August but beyond that the update will be installed.",
         "mainHeader": "Your device requires a security update",
         "oneDayDeferralButtonText": "One Day",
         "oneHourDeferralButtonText": "One Hour",
@@ -61,7 +61,7 @@
         "mainContentHeader": "Maskinen vil gjøre omstart i løpet av oppdateringen",
         "mainContentNote": "Viktige notater",
         "mainContentSubHeader": "Oppdateringen kan ta fra 30-60 minutter",
-        "mainContentText": "En oppdatert maskin er helt essensielt for at IT-avdelingen din skal kunne levere presis og sikker drift av din maskin.\n\nDersom maskinen ikke oppdateres riskikerer du å miste tilgang til noen av de verktøyene du benytter i det daglige.\n\nKom i gang med oppdateringen ved å klikke på \"Oppdater\"-knappen og følg stegene som presenterer seg.\n\nDen 30.05.2022 så vil du ikke lenger kunne utsette, og oppdateringer vil installeres.",
+        "mainContentText": "En oppdatert maskin er helt essensielt for at IT-avdelingen din skal kunne levere presis og sikker drift av din maskin.\n\nDersom maskinen ikke oppdateres riskikerer du å miste tilgang til noen av de verktøyene du benytter i det daglige.\n\nKom i gang med oppdateringen ved å klikke på \"Oppdater\"-knappen og følg stegene som presenterer seg.\n\nDen 04.08.2022 så vil du ikke lenger kunne utsette, og oppdateringer vil installeres.",
         "mainHeader": "Maskinen din trenger en sikkerhetsoppdatering",
         "primaryQuitButtonText": "Utsett",
         "subHeader": "En vennlig henstilling fra \"Mac i NAV\"-gjengen"
