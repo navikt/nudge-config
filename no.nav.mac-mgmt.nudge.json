@@ -1,11 +1,11 @@
 {
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-gb/HT213257",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213345",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-gb/HT213257"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213345"
         },
       ],
       "actionButtonPath": "munki://updates",
