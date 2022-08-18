@@ -10,8 +10,8 @@
       ],
       "actionButtonPath": "munki://updates",
       "majorUpgradeAppPath": "/Applications/Install macOS Monterey.app",
-      "requiredInstallationDate": "2022-08-04T00:00:00Z",
-      "requiredMinimumOSVersion": "12.5",
+      "requiredInstallationDate": "2022-08-22T00:00:00Z",
+      "requiredMinimumOSVersion": "12.5.1",
       "targetedOSVersionsRule": "default"
     }
   ],
