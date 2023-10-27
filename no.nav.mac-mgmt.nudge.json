@@ -1,16 +1,16 @@
 {
   "osVersionRequirements": [
     {
-      "aboutUpdateURL_disabled": "https://support.apple.com/en-gb/HT213931",
+      "aboutUpdateURL_disabled": "https://support.apple.com/en-us/HT213895",
       "aboutUpdateURLs": [
         {
           "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-gb/HT213931"
+          "aboutUpdateURL": "https://support.apple.com/en-us/HT213895"
         },
       ],
-      "majorUpgradeAppPath": "/Applications/Install macOS Ventura.app",
+      "majorUpgradeAppPath": "/Applications/Install macOS Sonoma.app",
       "requiredInstallationDate": "2023-09-25T17:30:00Z",
-      "requiredMinimumOSVersion": "13.6.1 ",
+      "requiredMinimumOSVersion": "14.1 ",
       "targetedOSVersionsRule": "default"
     }
   ],
